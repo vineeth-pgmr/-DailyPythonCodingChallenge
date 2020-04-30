@@ -1,0 +1,7 @@
+#What is the output of the following
+x = ['ab','cd']
+for i in x:
+    i.lower()
+print(x)
+
+# Ans : ['ab','cd']
